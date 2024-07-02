@@ -2,9 +2,6 @@
 
 [curriculum-vitae.md](./curriculum-vitae.md)
 
-short ver.
-[curriculum-vitae-short.md](./curriculum-vitae-short.md)
-
 ## summary
 
 [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoutoku&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

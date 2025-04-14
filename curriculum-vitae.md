@@ -119,7 +119,7 @@ DDD やクリーンアーキテクチャといった、開発言語に依存し�
 
 社会貢献の高いプロダクトに関わりたいと考え、自社サービスを展開しているホワイトヘルスケア株式会社に転職。
 
-リードの Web エンジニアとしてジョイン。Backend / FrontEnd の既存コードの保守、新規機能開発に従事。
+リードの Web エンジニアとしてジョイン。Backend / Frontend の既存コードの保守、新規機能開発に従事。
 
 |     項目     | 概要                                                                                                                     |
 | :----------: | :----------------------------------------------------------------------------------------------------------------------- |
@@ -127,7 +127,7 @@ DDD やクリーンアーキテクチャといった、開発言語に依存し�
 |  チーム人数  | 3 人                                                                                                                     |
 |     役割     | メンバー                                                                                                                 |
 |     担当     | Backend<br>Frontend                                                                                                      |
-| 技術スタック | AWS ( IAM / ECR / ECS / RDS / S3 )<br>Ruby (Ruby on Rails)<br>Vue.js / React <br>Docker / Docker Compose<br>Git / Github |
+| 技術スタック | AWS ( IAM / ECR / ECS / RDS / S3 )<br>Ruby (Ruby on Rails)<br>Vue.js / React <br>Docker / Docker Compose<br>Git / GitHub |
 |   業務内容   | 既存コードの保守、新規機能開発(REST API 設計など)                                                                        |
 
 ### 株式会社ミラボ : 2021 年 10 月 - 2022 年 11 月
@@ -144,7 +144,7 @@ DDD やクリーンアーキテクチャといった、開発言語に依存し�
 |  チーム人数  | 5 人                                                                                                                                                                            |
 |     役割     | メンバー                                                                                                                                                                        |
 |     担当     | Backend<br>Frontend                                                                                                                                                             |
-| 技術スタック | AWS ( IAM / ECR / RDS / S3 / Lambda / CloudHSM / CodePipeline / CloudWatch )<br>Python ( Django / REST Framework )<br>Java<br>Vue.js<br>Docker / Docker Compose<br>Git / Github |
+| 技術スタック | AWS ( IAM / ECR / RDS / S3 / Lambda / CloudHSM / CodePipeline / CloudWatch )<br>Python ( Django / REST Framework )<br>Java<br>Vue.js<br>Docker / Docker Compose<br>Git / GitHub |
 |   業務内容   | 既存コードの保守、新規機能開発(REST API 設計など) <br>Java, AWS Lambda, CloudHSM を用いた電子署名ロジックの実装<br>採用面接                                                     |
 
 ### コグニロボ株式会社 : 2018 年 9 月 - 2021 年 9 月
@@ -167,7 +167,7 @@ CEO との壁打ちや MTG の実施、顧客との MTG の出席、プロダク
 |  チーム人数  | 7 人 -> 1 人 (事業縮小乗のため)                                                                                                                                                                                                                                              |
 |     役割     | データサイエンティスト<br>リード                                                                                                                                                                                                                                             |
 |     担当     | Backend<br>Frontend<br>Infra                                                                                                                                                                                                                                                 |
-| 技術スタック | AWS ( EKS / IAM / ECR / RDS / S3 )<br>Terraform<br>Helm<br>Python ( Django / REST Framework / Pyspark / pandas / scikit-learn / boto3 )<br>Airflow<br>Docker / Docker Compose<br>Git / Github                                                                                |
+| 技術スタック | AWS ( EKS / IAM / ECR / RDS / S3 )<br>Terraform<br>Helm<br>Python ( Django / REST Framework / Pyspark / pandas / scikit-learn / boto3 )<br>Airflow<br>Docker / Docker Compose<br>Git / GitHub                                                                                |
 |   業務内容   | CEO と共にプロダクトの方向性を検討<br>顧客に対するプレゼン資料の作成、レビュー、ミーティングの実施<br>顧客から受領したデータに対し、Pyspark、pandas を用いたデータ分析<br>データフロー設計、実装<br>REST API 設計、実装<br>デプロイフロー設計、実装<br>k8s(Helm)の設計、実装 |
 
 ### Web サービスの PoC コードのリファクタリング : 2018 年 2 月 - 2018 年 8 月
@@ -184,7 +184,7 @@ CEO との壁打ちや MTG の実施、顧客との MTG の出席、プロダク
 |  チーム人数  | 5 人                                                                              |
 |     役割     | メンバー                                                                          |
 |     担当     | Backend                                                                           |
-| 技術スタック | groovy ( Grails )<br>Python ( Django )<br>Docker / Docker Compose<br>Git / Github |
+| 技術スタック | groovy ( Grails )<br>Python ( Django )<br>Docker / Docker Compose<br>Git / GitHub |
 |   業務内容   | Python コードの解析、リファクタリング                                             |
 
 ### サーバレス Web アプリの構築 : 2017 年 10 月 - 2018 年 1 月
@@ -201,7 +201,7 @@ AWS Lambda をベースとしたサーバレス Web アプリの REST API 部の
 |  チーム人数  | 5 人                                               |
 |     役割     | メンバー                                           |
 |     担当     | Backend                                            |
-| 技術スタック | AWS ( Lambda )<br>Python ( Flask )<br>Git / Github |
+| 技術スタック | AWS ( Lambda )<br>Python ( Flask )<br>Git / GitHub |
 |   業務内容   | Python コードの解析、リファクタリング              |
 
 ### 株式会社ココペリインキュベート : 2017 年 6 月 - 2017 年 9 月
@@ -218,7 +218,7 @@ PoC として作成されていた、既存の機械学習モデルに対する�
 |  チーム人数  | 3 人                                                                                 |
 |     役割     | メンバー                                                                             |
 |     担当     | Backend                                                                              |
-| 技術スタック | Python ( TensorFlow )<br>Git / Github                                                |
+| 技術スタック | Python ( TensorFlow )<br>Git / GitHub                                                |
 |   業務内容   | Python コードの解析、リファクタリング<br>TensorFlow のハイパーパラメータチューニング |
 
 ### キヤノン株式会社 : 2009 年 4 月 - 2017 年 5 月

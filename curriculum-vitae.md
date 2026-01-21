@@ -98,7 +98,7 @@
 健康保険組合向け SaaS プロダクトの機能拡張および技術負債解消を担当。React 移行を含むフロントエンド刷新とバックエンド API 開発を同時並行で推進。
 
 **技術スタック**  
-Ruby on Rails, React, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker, GitHub
+Ruby on Rails, React, Vue.js, MySQL, AWS (ECS, RDS, S3), Docker, Docker Compose, GitHub
 
 **チーム構成**: エンジニア 3 名、PM1 名
 
@@ -121,7 +121,7 @@ Ruby on Rails, React, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker, GitHub
 医薬品取引最適化プラットフォームの開発において、フルスタック開発を担当。医療・薬事ドメインの業務の理解とロジックをシステム化。
 
 **技術スタック**  
-Ruby on Rails, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker, GitHub
+Ruby on Rails, Vue.js, MySQL, AWS (ECS, RDS, S3), Docker, Docker Compose, GitHub
 
 **チーム構成**: エンジニア 2 名、PM1 名
 
@@ -150,7 +150,7 @@ Ruby on Rails, Vue.js, PostgreSQL, AWS (ECS, RDS, S3), Docker, GitHub
 政府主導プロジェクトにおいて、AWS Lambda を用いたサーバーレスアーキテクチャの設計・実装を担当。突発的な高負荷トラフィックに対応可能なシステムを構築。
 
 **技術スタック**  
-Python (Django), Java, Vue.js, AWS (Lambda, RDS, S3, CloudHSM, CodePipeline), Docker, GitHub
+Python (Django), Java, Vue.js, PostgreSQL, AWS (Lambda, RDS, S3, CloudHSM), Docker, Docker Compose, GitHub
 
 **チーム構成**: エンジニア 4 名、PM1 名
 
@@ -179,7 +179,7 @@ Python (Django), Java, Vue.js, AWS (Lambda, RDS, S3, CloudHSM, CodePipeline), Do
 機械学習環境を提供する SaaS プロダクトの開発において、開発責任者の離脱後、フロントエンド・バックエンド・インフラ全域を単独で担当し、プロダクトの継続性を担保。
 
 **技術スタック**  
-Python (Django), Airflow, Terraform, Helm, AWS (EKS, RDS, S3), Kubernetes, Docker, GitHub
+Python (Django), PostgreSQL, Airflow, Terraform, Helm, AWS (EKS, RDS, S3), Kubernetes, Docker, Docker Compose, GitHub
 
 **チーム構成**: 初期 7 名 → 事業縮小により 1 名体制
 

@@ -6,7 +6,10 @@
     "preset-ja-technical-writing": {
       "max-kanji-continuous-len": {
         "max": 7,
-        "allow": ["普通自動車第一種運転免許", "旧医療機器事業部"]
+        "allow": [
+          "普通自動車第一種運転免許",
+          "旧医療機器事業部"
+        ]
       }
     },
     "preset-ja-spacing": {
@@ -16,6 +19,7 @@
     },
     "spellcheck-tech-word": true,
     "textlint-rule-preset-ja-technical-writing": true,
-    "textlint-rule-spellcheck-tech-word": true
+    "textlint-rule-spellcheck-tech-word": true,
+    "ja-technical-writing/no-doubled-conjunction": true
   }
 }

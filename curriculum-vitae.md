@@ -105,7 +105,7 @@ Ruby on Rails, React, Vue.js, MySQL, AWS (ECS, RDS, S3), Docker, Docker Compose,
 **担当業務**
 
 - フロントエンド: React / Vue.js による UI 実装、レスポンシブ対応。
-- バックエンド: Rails API の設計・実装、DB 設計（スキーマ設計、パフォーマンスチューニング）。
+- バックエンド: Rails API の設計・実装、DB 設計（スキーマ設計、パフォーマンス改善）。
 - 継続的リファクタリング: 既存コードの可読性・拡張性向上。
 
 **主な成果**
@@ -128,7 +128,7 @@ Ruby on Rails, Vue.js, MySQL, AWS (ECS, RDS, S3), Docker, Docker Compose, GitHub
 **担当業務**
 
 - フロントエンド: Vue.js による UI 実装、レスポンシブ対応。
-- バックエンド: Rails API の設計・実装、DB 設計（スキーマ設計、パフォーマンスチューニング）。
+- バックエンド: Rails API の設計・実装、DB 設計（スキーマ設計、パフォーマンス改善）。
 - 継続的リファクタリング: 既存コードの可読性・拡張性向上。
 
 **主な成果**
